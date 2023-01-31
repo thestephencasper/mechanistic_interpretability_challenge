@@ -1,6 +1,6 @@
 # Mechanistic Interpretability Challenge
 
-## Challenge 1: MNIST CNN
+## Challenge 1, MNIST CNN:
 
 Use mechanistic interpretability tools to reverse engineer an MNIST CNN and send me the labeling function it was trained on. 
 
@@ -14,7 +14,7 @@ Hint 3: This image may be helpful.
 
 MNIST CNN challenge:  [![MNIST CNN challenge -- Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15ByJYkksF9Bxb0rVkaoIZbUEWtbBDDqN?usp=sharing)
 
-## Challenge 2: Transformer
+## Challenge 2, Transformer:
 
 Use mechanistic interpretability tools to reverse engineer a transformer and send me the labeling function it was trained on. 
 
