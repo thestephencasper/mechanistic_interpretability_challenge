@@ -20,7 +20,7 @@ Use mechanistic interpretability tools to reverse engineer a transformer and sen
 
 Hint 1: The labels are binary.
 
-Hint 2: The network is traiend on 50% of examples and gets 97.27% accuracy on the test half. 
+Hint 2: The network is trained on 50% of examples and gets 97.27% accuracy on the test half. 
 
 Hint 3: Here are the ground truth and learned labels. Notice how the mistakes the network makes are all near curvy parts of the decision boundary...
 
