@@ -2,7 +2,7 @@
 
 ## Challenge 1, MNIST CNN:
 
-Use mechanistic interpretability tools to reverse engineer an MNIST CNN and send me the labeling function it was trained on. 
+Use mechanistic interpretability tools to reverse engineer an MNIST CNN and send me a program for the labeling function it was trained on. 
 
 Hint 1: The labels are binary.
 
@@ -16,7 +16,7 @@ MNIST CNN challenge:  [![MNIST CNN challenge -- Colab](https://colab.research.go
 
 ## Challenge 2, Transformer:
 
-Use mechanistic interpretability tools to reverse engineer a transformer and send me the labeling function it was trained on. 
+Use mechanistic interpretability tools to reverse engineer a transformer and send me a program for the labeling function it was trained on. 
 
 Hint 1: The labels are binary.
 
