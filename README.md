@@ -10,6 +10,8 @@ Hint 2: The network gets 95.58% accuracy on the test set.
 
 Hint 3: This image may be helpful. 
 
+Hint 4: The labeling function can be described in words in one sentence. 
+
 ![mnist example](figs/mnist_example.png)
 
 MNIST CNN challenge:  [![MNIST CNN challenge -- Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15ByJYkksF9Bxb0rVkaoIZbUEWtbBDDqN?usp=sharing)
