@@ -8,9 +8,9 @@ Hint 1: The labels are binary.
 
 Hint 2: The network gets 95.58% accuracy on the test set. 
 
-Hint 3: This image may be helpful. 
+Hint 3: The labeling function can be described in words in one sentence.
 
-Hint 4: The labeling function can be described in words in one sentence. 
+Hint 4: This image may be helpful. 
 
 ![mnist example](figs/mnist_example.png)
 
