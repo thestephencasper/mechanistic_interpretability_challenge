@@ -32,4 +32,4 @@ Transformer challenge:  [![MNIST CNN challenge -- Colab](https://colab.research.
 
 ## Rewards:
 
-If you send me code for one of the two labeling functions along with a mechanisic interpretability justification for it, the prize is a $750 donation to a high-impact charity of your choice. So the total prize pool is $1,500 for both challenges. Thanks for Neel Nanda for contributing $500!
+If you send me code for one of the two labeling functions along with a justified mechanisic interpretability explanation for it (e.g. in the form of a colab notebook), the prize is a $750 donation to a high-impact charity of your choice. So the total prize pool is $1,500 for both challenges. Thanks for Neel Nanda for contributing $500!
