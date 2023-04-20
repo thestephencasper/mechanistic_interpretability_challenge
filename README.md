@@ -1,6 +1,8 @@
 # Mechanistic Interpretability Challenge
 
-## Challenge 1, MNIST CNN:
+## (SOLVED) Challenge 1, MNIST CNN:
+
+As of April 19, 2023, this challenge has been solved. A link to the report from those who solved it is forthcoming. 
 
 Use mechanistic interpretability tools to reverse engineer an MNIST CNN and send me a program for the labeling function it was trained on. 
 
