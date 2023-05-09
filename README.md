@@ -18,7 +18,9 @@ Hint 4: This image may be helpful.
 
 MNIST CNN challenge:  [![MNIST CNN challenge -- Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15ByJYkksF9Bxb0rVkaoIZbUEWtbBDDqN?usp=sharing)
 
-## Challenge 2, Transformer:
+## 9Solved) Challenge 2, Transformer:
+
+As of May 9, 2023, this challenge has been solved. A link to the report from those who solved it is forthcoming. 
 
 Use mechanistic interpretability tools to reverse engineer a transformer and send me a program for the labeling function it was trained on. 
 
