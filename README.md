@@ -2,7 +2,7 @@
 
 ## (SOLVED) Challenge 1, MNIST CNN:
 
-As of April 19, 2023, this challenge has been solved. A link to the report from those who solved it is forthcoming. 
+Solution report: [Solving the Mechanistic Interpretability challenges: EIS VII Challenge 1](https://www.alignmentforum.org/posts/sTe78dNJDGywu9Dz6/solving-the-mechanistic-interpretability-challenges-eis-vii) 
 
 Use mechanistic interpretability tools to reverse engineer an MNIST CNN and send me a program for the labeling function it was trained on. 
 
