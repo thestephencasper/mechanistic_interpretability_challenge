@@ -18,9 +18,11 @@ Hint 4: This image may be helpful.
 
 MNIST CNN challenge:  [![MNIST CNN challenge -- Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15ByJYkksF9Bxb0rVkaoIZbUEWtbBDDqN?usp=sharing)
 
-## (Solved) Challenge 2, Transformer:
+## (Solved*) Challenge 2, Transformer:
 
-As of May 9, 2023, this challenge has been solved. A link to the report from those who solved it is forthcoming. 
+*The challenge was not solved by finding the labeling function but instead by showing that finding the labeling function is bery unlikely to be tractable. In the report linked below, I am quoted with some thoughts about this. 
+
+Solution report: [Solving the Mechanistic Interpretability challenges: EIS VII Challenge 2](https://www.lesswrong.com/posts/k43v47eQjaj6fY7LE/solving-the-mechanistic-interpretability-challenges-eis-vii-1)
 
 Use mechanistic interpretability tools to reverse engineer a transformer and send me a program for the labeling function it was trained on. 
 
