@@ -24,6 +24,8 @@ MNIST CNN challenge:  [![MNIST CNN challenge -- Colab](https://colab.research.go
 
 Solution report: [Solving the Mechanistic Interpretability challenges: EIS VII Challenge 2](https://www.lesswrong.com/posts/k43v47eQjaj6fY7LE/solving-the-mechanistic-interpretability-challenges-eis-vii-1)
 
+See also [https://www.lesswrong.com/posts/vGCWzxP8ccAfqsrS3/thoughts-about-the-mechanistic-interpretability-challenge-2](https://www.lesswrong.com/posts/vGCWzxP8ccAfqsrS3/thoughts-about-the-mechanistic-interpretability-challenge-2)
+
 Use mechanistic interpretability tools to reverse engineer a transformer and send me a program for the labeling function it was trained on. 
 
 Hint 1: The labels are binary.
